@@ -1,0 +1,17 @@
+XML:
+layouts:
+main layouts are linear layout and Relative layout.
+----------------------------1.LINEAR LAYOUT:-----------------------
+
+
+linear layout have two different properties.
+1.horiozontal and 2.vertical. --> also called orientation of linear layouts.
+gravity is a attribute of this layout..
+
+--------------------2.Raltive layout---------------------
+relative layout is good for everything. 
+there have relations in between root layout and child views.
+and also have relations between child views together.
+some relations:
+1.alignParentBottom, alignParentRight, alignParentLeft,layoutAbove,layoutbelow;
+2.centerInParent.
