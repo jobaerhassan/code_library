@@ -1,0 +1,19 @@
+At first i heard about it from arnav gupta vaiya from coding blocks.
+
+lets write a recursive factorial function:
+
+int func(int n)
+{
+  if(n == 0) return 1;
+  else return n*func(n-1);
+}
+int main()
+{
+  cout<<"factorial of 5 = "<< func(5);
+  return 0;
+}
+
+//ses korte hobe.
+
+
+
